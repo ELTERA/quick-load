@@ -1,8 +1,7 @@
 {
-	"data": {
-		"index.js": "e1cAzK6qpYQpcm67m17qp/hnnF9qy5wYeWA7G78J0oU=",
-		"mod.json": "FypyHzSE822ciKjK62xoEJ5VAYCFgYFdafq5h2Tc0ow="
-	},
-	"publicKey": "MCowBQYDK2VwAyEAY31fpV8rIvZ3zGJE6nqoLXcI27/C3xmjDWV7PDavK4w=",
-	"signature": "6UQTR3MbkcWW9gHpzyOxMSQvABdJGs1VCPYjR9mA/mq99Zf+0vrSpkSE0tjUP4wuW7y6wBFHdYzUTHbruZmIBw=="
+  "files": {
+    "module.json": "96b57b89a5558be3c6ef3a50f10c3cd90049a861517cd5b683b84b8136ccb7f9", 
+    "README.MD": "a0cd3762927d5c8cfa679c263d3c76f0eaa14a401e7de4e9077edc2f7341cae9", 
+    "index.js": "7b5700ccaeaaa58429726ebb9b5eeaa7f8679c5f6acb9c1879603b1bbf09d285"
+  }
 }

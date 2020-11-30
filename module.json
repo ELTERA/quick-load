@@ -1,0 +1,11 @@
+{
+  "disableAutoUpdate": false,
+  "name": "quick-load",
+  "options": {
+    "niceName": "QLoad",
+    "guiName": "Quick Load"
+  },
+  "author": "Pinkie Pie",
+  "description": "Removes useless loading screen when switching channels or teleporting nearby.",
+  "servers": ["https://raw.githubusercontent.com/ELTERA/quick-load/master/"]
+}
